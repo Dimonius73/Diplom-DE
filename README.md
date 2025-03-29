@@ -30,7 +30,7 @@
 
 ## <a name="first-stage"></a> 2. Анализ данных
 
-[Датасет](https://github.com/Dimonius73/Diplom-DE/supermarket_sales - Sheet1.csv)
+[Датасет](https://github.com/Dimonius73/Diplom-DE/blob/main/)supermarket_sales - Sheet1.csv)
 
 **Контекст датасета:** датасет `Supermarket Sales` представляет из себя срез исторических данных о продажах товаров в 3 филиалах компании за 3 месяца.
 
