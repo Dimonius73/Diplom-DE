@@ -55,7 +55,7 @@
 
 Для анализа данных воспользуемся библиотеками `pandas`, `matplotlib` и `seaborn`.
 
-[Colaboratory] (https://github.com/Dimonius73/Diplom-DE/blob/main/Diplom_DE.ipynb)
+[Colaboratory](https://github.com/Dimonius73/Diplom-DE/blob/main/Diplom_DE.ipynb)
 
 **Загрузка данных в Pandas DataFrame:**
 
