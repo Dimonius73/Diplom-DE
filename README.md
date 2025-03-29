@@ -250,3 +250,6 @@ plt.show()
 ## <a name="second-stage"></a> 3. Формирование состава таблиц, построение ER-диаграмм и DDL-запросов
 
 #### Нормализованная схема данных (NDS)
+
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/05-nds.png)
+
