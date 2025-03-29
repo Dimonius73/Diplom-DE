@@ -1,4 +1,4 @@
-# Diplom-DE
+ # Diplom-DE
 
 # Дипломаная работа по курсу "DataOps-инженер"
 ![header](.//assets/images/header.png)
@@ -30,7 +30,7 @@
 
 ## <a name="first-stage"></a> 2. Анализ данных
 
-[Датасет](./supermarket_sales - Sheet1.csv)
+[Датасет](https://github.com/Dimonius73/Diplom-DE/supermarket_sales - Sheet1.csv)
 
 **Контекст датасета:** датасет `Supermarket Sales` представляет из себя срез исторических данных о продажах товаров в 3 филиалах компании за 3 месяца.
 
