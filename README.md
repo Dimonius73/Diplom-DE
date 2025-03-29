@@ -1,6 +1,6 @@
  # Diplom-DE
 
-# Дипломаная работа по курсу "DataOps-инженер"
+# Дипломная работа по курсу "DataOps-инженер"
 ![header](.//assets/images/header.png)
 ---
 ## Содержание  
@@ -191,4 +191,4 @@ plt.ylabel('Количество продаж')
 
 plt.show()
 ```
-![]
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/02-branch.png)
