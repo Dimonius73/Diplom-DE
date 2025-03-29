@@ -162,3 +162,4 @@ print(df['Payment'].unique())
 ```
 df.describe(include='all')
 ```
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/01-describe.png)
