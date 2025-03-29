@@ -221,4 +221,19 @@ plt.xticks(rotation=45, ha='center')
 
 plt.show()
 ```
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/03-категория.png)
+
+Из полученной диаграммы видно, что наибольшее число продаж приходится на категорию *Fashion Accessories*, наименьшее на категорию *Health and beauty*.
+
+**Построение тепловой карты (город - метод оплаты):**
+
+```python
+sns.heatmap(pd.crosstab(df['City'], df['Payment']), cmap="YlGnBu")
+
+plt.title('Тепловая карта по городам и методам оплаты')
+plt.xlabel('Метод оплаты')
+plt.ylabel('Город')
+
+plt.show()
+```
 ![]
