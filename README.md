@@ -253,3 +253,4 @@ plt.show()
 
 ![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/05-nds.png)
 
+DDL-запросы для создания и заполнения таблиц в PostgreSQL]
