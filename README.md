@@ -163,8 +163,7 @@ print(df['Payment'].unique())
 df.describe(include='all')
 ```
 ![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/01-describe.png)
-
-Из полученной статистику узнаем:
+Из полученной статистики узнаем:
   1. В данных почти равное распределение как по типу клиента (*Member* / *Normal*), так и по полу (*Female* / *Male*). В обоих случаях это 501 на 499.
   2. Наибольшей популярностью пользуется категория *Fashion accessories*. На нее приходится 178 продаж.
   3. Средняя стоимость единицы товара $55.67.
@@ -192,3 +191,33 @@ plt.ylabel('Количество продаж')
 plt.show()
 ```
 ![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/02-branch.png)
+Из диаграммы видно, что больше всего продаж приходится на филиал *A*, но в целом распределение почти равное.
+
+**Подсчет средней разницы в количестве продаж между филиалами:**
+
+```python
+average_percentage_difference = (branch_stat['Invoice ID'].max() - branch_stat['Invoice ID'].min()) / branch_stat['Invoice ID'].mean() * 100
+print('Разница составляет: ', average_percentage_difference.round(3), '%')
+```
+
+```
+Разница составляет: 3.6 %
+```
+
+**Распределение продаж по продуктовым линейкам:**
+
+```python
+product_line_stat = df.groupby('Product line')['Invoice ID'].nunique().reset_index()
+
+plt.figure(figsize=(4, 4))
+sns.set(style="whitegrid")
+sns.barplot(x='Product line', y='Invoice ID', data=product_line_stat, palette="viridis")
+
+plt.title('Количество продаж по категориям товаров')
+plt.xlabel('Категория товаров')
+plt.ylabel('Количество продаж')
+plt.xticks(rotation=45, ha='center')
+
+plt.show()
+```
+![]
