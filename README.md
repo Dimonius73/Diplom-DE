@@ -163,6 +163,7 @@ print(df['Payment'].unique())
 df.describe(include='all')
 ```
 ![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/01-describe.png)
+
 Из полученной статистики узнаем:
   1. В данных почти равное распределение как по типу клиента (*Member* / *Normal*), так и по полу (*Female* / *Male*). В обоих случаях это 501 на 499.
   2. Наибольшей популярностью пользуется категория *Fashion accessories*. На нее приходится 178 продаж.
