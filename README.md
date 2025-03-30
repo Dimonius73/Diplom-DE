@@ -1,6 +1,6 @@
 # Дипломная работа по курсу "Дата - инженер"
 
-![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/zast.png))
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/zast.png)
 ---
 ## Содержание  
 - [1. Введение](#introduction)  
