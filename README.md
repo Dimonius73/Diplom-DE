@@ -1125,11 +1125,13 @@ with DAG(
 
 **Итоговый дашборд:**
 
-![](./assets/images/04_dashboard_1.png)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/bi1.png) 
 
-![](./assets/images/04_dashboard_2.png)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/bi2.png) 
 
-![](./assets/images/04_dashboard_3.png)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/bi3.png) 
+
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/bi4.png) 
 
 ## <a name="conclusions"></a> 6. Выводы
 
