@@ -319,6 +319,7 @@ plt.show()
 
 Для решения этой задачи было решено разделить процессы первичной выгрузки данных из источника и перемещение их в требуемые схемы на 2 DAG.
 Все окружение для реализации процессов поднято: [в контейнеризированной среде](https://github.com/Dimonius73/Diplom-DE/blob/main/ETL/docker-compose.yaml)
+И через Docker передается в [AIRFLOW DAGs ](https://github.com/Dimonius73/Diplom-DE/blob/main/ER%20and%20DDL/docker.jpg)
 
 **Краткое описание:** DAG выполняет выгрузку данных из источника (через Kaggle API), валидацию (проверка на `Null` значения, дубликаты строк, наличие валидных значений атрибутов, а также соответствие формата `Invoice ID` регулярному выражению) и преобразование типов (раздельные атрибуты даты и времени преобразовываются в один) и загрузку данных в ClickHouse.
 
@@ -410,4 +411,5 @@ with DAG(
 ```
 
 **Граф задач:**
-![](./assets/images/03_data_load_dag_graph.png)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/ER%20and%20DDL/data_load_dag.jpg)
+
