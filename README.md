@@ -1,7 +1,6 @@
- # Diplom-DE
+# Дипломная работа по курсу "Дата - инженер"
 
-# Дипломная работа по курсу "DataOps-инженер"
-![header](.//assets/images/header.png)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/zast.png))
 ---
 ## Содержание  
 - [1. Введение](#introduction)  
