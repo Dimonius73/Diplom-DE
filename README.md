@@ -414,5 +414,6 @@ with DAG(
 ```
 
 **Граф задач:**
-![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_load_dag.jpg)
+
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/da_load_dag.jpg)
 
