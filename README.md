@@ -321,7 +321,8 @@ plt.show()
 Все окружение для реализации процессов поднято: [в контейнеризированной среде](https://github.com/Dimonius73/Diplom-DE/blob/main/ETL/docker-compose.yaml)
 
 через PowerShell 
-[](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/powershell.png)
+
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/powershell.png)
 
 И через Docker передается в AIRFLOW DAGs
 
