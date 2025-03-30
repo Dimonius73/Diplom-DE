@@ -319,4 +319,4 @@ plt.show()
 
 Для решения этой задачи было решено разделить процессы первичной выгрузки данных из источника и перемещение их в требуемые схемы на 2 DAG.
 Все окружение для реализации процессов поднято в контейнеризированной среде
-![](https://github.com/Dimonius73/Diplom-DE/blob/main/ETL/docker-compose.yaml)
+[](https://github.com/Dimonius73/Diplom-DE/blob/main/ETL/docker-compose.yaml)
