@@ -1058,5 +1058,7 @@ with DAG(
 **Граф задач:**
 ![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_processing_dag.jpg)
 
+Проверяем загрузку данных:
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_processing_dag.jpg)
 
-
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_processing_dag.jpg)
