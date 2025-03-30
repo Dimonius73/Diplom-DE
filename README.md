@@ -1059,6 +1059,6 @@ with DAG(
 ![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_processing_dag.jpg)
 
 Проверяем загрузку данных:
-![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_processing_dag.jpg)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/zagr.png)
 
-![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/data_processing_dag.jpg)
+![](https://github.com/Dimonius73/Diplom-DE/blob/main/Изображения/zagr2.png)
